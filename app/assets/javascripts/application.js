@@ -11,5 +11,14 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require bootstrap.min
+//= require cable
+//= require contact-form
+//= require jquery-1.11.2.min
+//= require jquery-ui.min
+//= require map
+//= require navigation
+//= require revolution-slider
+//= require theme
 //= require turbolinks
 //= require_tree .
